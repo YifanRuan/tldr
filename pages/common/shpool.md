@@ -12,6 +12,10 @@
 
 `shpool list`
 
+- Detach from the current session:
+
+`shpool detach`
+
 - Detach from a session:
 
 `shpool detach {{session_name}}`
